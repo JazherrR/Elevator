@@ -8,6 +8,7 @@ namespace Elevator
 
         public int hedefkat;
         public int asansorbottom;
+        public int bombastic;
 
 
 
