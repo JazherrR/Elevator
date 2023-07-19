@@ -10,6 +10,8 @@ namespace Elevator
         public int asansorbottom;
         public int bombastic;
 
+        public int a;
+
 
 
         public Asansor()
